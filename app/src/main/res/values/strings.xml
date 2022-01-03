@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Transit Logger</string>
+    <string name="google_maps_key">AIzaSyC4d7QlJluAWTpCrJFr1n5zFjUVz5jnbUA</string>
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Route</item>
+    </string-array>
+    <string-array name="direction">
+        <item>Inbound</item>
+        <item>Outbound</item>
+    </string-array>
+    <string-array name="vehicles">
+        <item>14 Seater</item>
+        <item>25 Seater</item>
+        <item>33 Seater</item>
+        <item>40 Seater</item>
+        <item>50 Seater</item>
+        <item>55 Seater</item>
+    </string-array>
+
+</resources>
